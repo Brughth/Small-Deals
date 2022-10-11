@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "840161490522",
+    "project_id": "small-deals-ddf80",
+    "storage_bucket": "small-deals-ddf80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840161490522:android:7df39d998f915d846c0a63",
+        "android_client_info": {
+          "package_name": "com.example.small_deals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840161490522-7h9f28l8t8b3eooh02iufagu3raoei07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.small_deals",
+            "certificate_hash": "bc59b944b4d0846e7306c9f37948fa98241e41ce"
+          }
+        },
+        {
+          "client_id": "840161490522-rgbbf7gcppg69ms9kfehdsoooor2m77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD53SJbLn0EgRqvff8FeVEGoTZe-_7Ocbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840161490522-rgbbf7gcppg69ms9kfehdsoooor2m77f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
